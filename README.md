@@ -1,6 +1,6 @@
 # MERN Stack Ecommerce Project
 
-Four powerful technologies: React (Frontend), Node.js (Backend runtime environment), Express (Backend Framework), MongoDB (Database) are used along with stipe to handle our payments, Cloudinary to handle our images, Mailtrap to test the Emailing service.
+Four powerful technologies: React (Frontend), Node.js (Backend runtime environment), Express (Backend Framework), MongoDB (Database) are used along with stipe to handle our payments, Cloudinary to handle our images, Mailtrap to test the Emailing service and Postman for API requests.
 
 ## Installation
 
