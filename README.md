@@ -19,13 +19,13 @@ To create a new project
 
 To run the app, first switch into the app directory you can run:
 
-### `cd yourappname`
+ `cd yourappname`
 
 ---
 
 To initialize the project, you can run: 
 
-### `npm init`
+ `npm init`
 
 This will create a `package.json` file in your project folder. This holds metadata relevant to the project and it is used for managing the project's dependencies, scripts, version and a whole lot more.
 
@@ -33,13 +33,13 @@ This will create a `package.json` file in your project folder. This holds metada
 
 To automatically restart the node application, you can install and run:
 
-### `npm i nodemon --save-dev`
+ `npm i nodemon --save-dev`
 
 ---
 
 Additional Dependencies to install:
 
-### `npm i mongoose express bcryptjs body-parser cookie-parser dotenv validator nodemailer jsonwebtoken`
+ `npm i mongoose express bcryptjs body-parser cookie-parser dotenv validator nodemailer jsonwebtoken`
 
 ---
 
